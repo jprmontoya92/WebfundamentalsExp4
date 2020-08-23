@@ -1,0 +1,76 @@
+/*primero seteamos los valores*/
+
+body{
+    margin: 0;
+    color: #000f08;
+    font-family: 'Open Sans';
+}
+
+img{
+    margin: 40px 0 40px 0;
+    width: 722px;
+}
+
+nav{
+    width: 100vw;
+    text-align: left;
+    padding: 8px 40px;
+    position: fixed;
+    margin: 0;
+    top: 0;
+    
+}
+nav ul{
+    list-style-type: none;
+}
+nav ul li{
+    display: inline-block;
+    margin: 0 16px;
+    vertical-align: middle;
+}
+p{
+    text-align: justify;
+
+}
+
+footer i{
+    margin: 0 15px 25px 4px;
+}
+
+footer{
+    text-align: center;
+}
+
+footer p{
+    text-align: center;
+}
+
+.oscuro{
+    background: #000f08;
+    color: #ffffff;
+    font-family: 'Open Sans';
+    font-size: 14px; 
+    font-weight: normal;
+}
+.oscuro a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.icono{
+    width: 30px;
+    fill: #ffffff;
+}
+
+
+.content{
+    margin: 0 auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: 700px;
+    color: #000f08;
+    font-family: 'Open Sans';
+    font-size: 14px; 
+    font-weight: normal;
+}
+
